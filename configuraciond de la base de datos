@@ -1,0 +1,6 @@
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=nombre_de_tu_basededatos
+DB_USERNAME=tu_usuario_de_mysql
+DB_PASSWORD=tu_contraseña_de_mysql
