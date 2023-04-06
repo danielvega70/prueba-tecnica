@@ -1,0 +1,1 @@
+php artisan make:migration nombre_de_la_migracion
