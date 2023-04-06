@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mi cuestionario</title>
+	<title>Página principal</title>
 </head>
 <body>
-	<h1>Mi cuestionario</h1>
-	<p>Bienvenido al cuestionario sobre tus gustos personales.</p>
-	<a href="crear_pregunta.php">Crear pregunta</a>
-	<a href="ver_preguntas.php">Ver preguntas</a>
+	<h1>Bienvenido al cuestionario de gustos personales</h1>
+	<p>Por favor, seleccione una opción:</p>
+	<ul>
+		<li><a href="formulario.php">Comenzar nuevo cuestionario</a></li>
+		<li><a href="resultados.php">Ver resultados de cuestionarios anteriores</a></li>
+	</ul>
 </body>
 </html>
